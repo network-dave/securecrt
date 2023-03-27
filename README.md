@@ -1,3 +1,3 @@
-# securecrt
+# SecureCRT Scripts
 
-A collection of SecureCRT scripts
+A collection of SecureCRT scripts.
